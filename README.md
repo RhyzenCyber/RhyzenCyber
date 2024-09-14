@@ -8,6 +8,6 @@ I'm a student learning, just exploring and experimenting.
 Feel free to check out my repos! Just AI-IT
 
 Cheers,  
-RhyzenCyber, KoKo Billion Won, KoKo Sillicon Won
+RhyzenCyber.
 
 +---------------------------------------------------------------+
